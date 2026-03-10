@@ -4,16 +4,17 @@
   <img src="https://komarev.com/ghpvc/?username=himeshp-23&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Science-2nd_Year_Student-0e75b6?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
+
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker;Chess%20Platform%20Developer&center=true&width=500&height=45"></p>
 
 <h4 align="center">Systems Programming | Algorithms | High-Performance Applications</h4>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himeshp-23" alt="himeshp-23" /></a> </p>
-
 ---
 
 ### 🚀 About Me
-- 🎓 Student at **Graphic Era Hill University**, passionate about building high-performance applications at the intersection of C++, Qt, and algorithmic optimization.
 - 💻 Always focused on optimizing execution and building tangible systems over just having the idea.
 - ♟ Currently building networked game systems and distributed communication experiments (Bluetooth Mesh / LAN multiplayer).
 - 📫 How to reach me: **himeshpant17@gmail.com**
@@ -21,8 +22,8 @@
 ---
 
 ### 🏆 Featured Projects
-- ⚡ **[PC File Finder](https://github.com/himeshp-23/PC-file-finder)**: A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
-- 🔗 **[Bluetooth Mesh Chat](https://github.com/himeshp-23/mesh-chat)**: A decentralized chat application utilizing Bluetooth mesh networking.
+- ⚡ **[PC File Finder](https://github.com/Himeshp-23/PC-file-finder)**: A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
+- 🔗 **[Bluetooth Mesh Chat](https://github.com/Himeshp-23/mesh-chat)**: A decentralized chat application utilizing Bluetooth mesh networking.
 - ♟️ **Bluetooth Chess Engine** *(Private Repository)*: Real-time chess application integrating the Stockfish engine for moves via Bluetooth.
 - 🎲 **Multiplayer LAN Ludo** *(In Development)*: Peer-to-peer Android multiplayer game developed over a local network.
 
