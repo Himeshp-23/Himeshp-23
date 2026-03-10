@@ -55,16 +55,15 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himeshp-23&theme=github" alt="Activity Graph" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himeshp-23/himeshp-23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak stats" />
 </p>
