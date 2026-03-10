@@ -54,15 +54,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h3 align="center">📊 GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak" />
+  <img src="https://github.com/himeshp-23/himeshp-23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <h3 align="center">📈 Activity Graph & Snake:</h3>
