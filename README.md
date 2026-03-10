@@ -5,7 +5,9 @@
   <img src="https://img.shields.io/badge/Computer_Science-2nd_Year_Student-0e75b6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker;Chess%20Platform%20Developer&center=true&width=500&height=45"></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker&center=true&width=500&height=45"/>
+</p>
 
 <h4 align="center">Systems Programming | Algorithms | High-Performance Applications</h4>
 
@@ -55,15 +57,12 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak stats" />
 </p>
