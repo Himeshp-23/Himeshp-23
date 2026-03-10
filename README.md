@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/Computer_Science-2nd_Year_Student-0e75b6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker&center=true&width=500&height=45"/>
-</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker&center=true&width=500&height=45"/></p>
 
 <h4 align="center">Systems Programming | Algorithms | High-Performance Applications</h4>
 
@@ -58,11 +56,19 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himeshp-23&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himeshp-23&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himeshp-23&theme=tokyonight" alt="streak" />
+</p>
+
+<h3 align="center">📈 Activity Graph & Snake:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himeshp-23&theme=github" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/himeshp-23/himeshp-23/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
