@@ -19,10 +19,10 @@
 ---
 
 ### 🏆 Featured Projects
-- ⚡ **[PC File Finder](https://github.com/Himeshp-23/PC-file-finder)**: A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
-- 🔗 **[Bluetooth Mesh Chat](https://github.com/Himeshp-23/mesh-chat)**: A decentralized chat application utilizing Bluetooth mesh networking.
+- ⚡ **[PC File Finder](https://github.com/Himeshp-23/PC-file-finder)**(in development): A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
+- 🔗 **[Bluetooth Mesh Chat](https://github.com/Himeshp-23/mesh-chat)**(In development): A decentralized chat application utilizing Bluetooth mesh networking.
 - ♟️ **Bluetooth Chess Engine** *(Private Repository)*: Real-time chess application integrating the Stockfish engine for moves via Bluetooth.
-- 🎲 **Multiplayer LAN Ludo** *(In Development)*: Peer-to-peer Android multiplayer game developed over a local network.
+- 🎲 **Multiplayer LAN Ludo** *(Private Repository)*: Peer-to-peer Android multiplayer game developed over a local network.
 
 ---
 
