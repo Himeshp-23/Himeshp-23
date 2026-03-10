@@ -54,11 +54,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Activity</h3>
-<p align="center">
-  <img src="https://github.com/himeshp-23/himeshp-23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 <h3 align="center">📈 Activity Graph & Snake:</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himeshp-23&theme=github" alt="Activity Graph" />
