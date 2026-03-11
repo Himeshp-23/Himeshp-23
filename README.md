@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/badge/Computer_Science-2nd_Year_Student-0e75b6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea;Builder%20not%20Talker&center=true&width=500&height=45"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Execution%20>%20Idea&center=true&width=500&height=45"/></p>
 
-<h4 align="center">Systems Programming | Algorithms | High-Performance Applications</h4>
+<h4 align="center">Small System Design | Optimization | High-Performance Applications</h4>
 
 ---
 
@@ -19,8 +19,8 @@
 ---
 
 ### 🏆 Featured Projects
-- ⚡ **[PC File Finder](https://github.com/Himeshp-23/PC-file-finder)**(in development): A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
-- 🔗 **[Bluetooth Mesh Chat](https://github.com/Himeshp-23/mesh-chat)**(In development): A decentralized chat application utilizing Bluetooth mesh networking.
+- ⚡ **[PC File Finder](https://github.com/Himeshp-23/PC-file-finder)** (in development): A high-performance C++/Qt indexer using custom Trie data structures, TF-IDF scoring, PDF text extraction, and background-threaded scanning.
+- 🔗 **[Bluetooth Mesh Chat](https://github.com/Himeshp-23/mesh-chat)** (In development): A decentralized chat application utilizing Bluetooth mesh networking.
 - ♟️ **Bluetooth Chess Engine** *(Private Repository)*: Real-time chess application integrating the Stockfish engine for moves via Bluetooth.
 - 🎲 **Multiplayer LAN Ludo** *(Private Repository)*: Peer-to-peer Android multiplayer game developed over a local network.
 
@@ -29,7 +29,7 @@
 ### 💡 Core Competencies
 | Category | Skills |
 | :--- | :--- |
-| **Backend & Systems** | C, C++, Python, Systems Programming, Data Structures & Algorithms |
+| **Backend & Systems** | C, C++, Python, Small System Design, Data Structures & Optimization |
 | **Mobile & Desktop** | Android (Kotlin), Qt Widgets, Compose Multiplatform |
 | **Search & AI** | Search Optimization (Trie/TF-IDF), AI & Statistics Fundamentals |
 | **Tools & OS** | Linux, Git, CMake, Firebase |
