@@ -12,8 +12,9 @@
 ---
 
 ### 🚀 About Me
-- 💻 Always focused on optimizing execution and building tangible systems over just having the idea.
-- ♟ Currently building networked game systems and distributed communication experiments (Bluetooth Mesh / LAN multiplayer).
+- 💻 Always focused on optimizing execution and building tangible systems over my ideas.
+- ♟ Currently building networked game , systems and distributed communication apps(Bluetooth Mesh / LAN multiplayer) ->App dev (Windows  , Android) 
+.
 - 📫 How to reach me: **himeshpant17@gmail.com**
 
 ---
